@@ -17,3 +17,5 @@ Proyecto Personal para aplicaciones Web / Móvil
 [Roadmap]
 
 [Licencia]
+
+[Agradecimientos]
